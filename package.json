@@ -22,6 +22,9 @@
     "github": {
       "release": true
     },
+    "npm": {
+      "release": false
+    },
     "plugins": {
       "@release-it/conventional-changelog": {
         "infile": "CHANGELOG.md",
