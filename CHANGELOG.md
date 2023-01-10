@@ -1,5 +1,12 @@
 
 
+## [3.0.1](https://github.com/Sdavletshina/release-it-demo/compare/3.0.0...3.0.1) (2023-01-10)
+
+
+### Bug Fixes
+
+* **coc-125:** bug fix ([644a6a2](https://github.com/Sdavletshina/release-it-demo/commit/644a6a2700288f5e0a55047e20e34a9ecd4ef80d))
+
 ## [3.0.0](https://github.com/Sdavletshina/release-it-demo/compare/2.0.0...3.0.0) (2023-01-10)
 
 
