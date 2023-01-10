@@ -1,5 +1,17 @@
 
 
+## [1.3.0](https://github.com/Sdavletshina/release-it-demo/compare/1.2.0...1.3.0) (2023-01-10)
+
+
+### Features
+
+* **coc-123:** add precommit-hook ([783daa7](https://github.com/Sdavletshina/release-it-demo/commit/783daa7a46eee574db17757b0fb8a52e846f8609))
+
+
+### Bug Fixes
+
+* **pkg:** foo bar\n\nBREAKING CHANGE: baz ([b1e4c00](https://github.com/Sdavletshina/release-it-demo/commit/b1e4c0085df2fa2d36f4953b89421074cbb6640e))
+
 ## [1.2.0](https://github.com/Sdavletshina/release-it-demo/compare/1.1.0...1.2.0) (2023-01-10)
 
 
