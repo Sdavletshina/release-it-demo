@@ -1,5 +1,16 @@
 
 
+## [3.0.0](https://github.com/Sdavletshina/release-it-demo/compare/2.0.0...3.0.0) (2023-01-10)
+
+
+### ⚠ BREAKING CHANGES
+
+* **coc-1234:** new feat dropped support
+
+### Features
+
+* **coc-1234:** new feat dropped support ([cf740d8](https://github.com/Sdavletshina/release-it-demo/commit/cf740d8c0f7239aaa2a96a618fd67dff84fb1952))
+
 ## [2.0.0](https://github.com/Sdavletshina/release-it-demo/compare/1.3.0...2.0.0) (2023-01-10)
 
 
