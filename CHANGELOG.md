@@ -1,5 +1,12 @@
 
 
+## [3.1.0](https://github.com/Sdavletshina/release-it-demo/compare/3.0.1...3.1.0) (2023-01-17)
+
+
+### Features
+
+* **coc-123:** this is the feature ([b8680c5](https://github.com/Sdavletshina/release-it-demo/commit/b8680c5b1c0ffdda4f51812979d527396aaa9f77))
+
 ## [3.0.1](https://github.com/Sdavletshina/release-it-demo/compare/3.0.0...3.0.1) (2023-01-10)
 
 
