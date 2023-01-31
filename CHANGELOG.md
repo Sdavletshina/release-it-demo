@@ -1,5 +1,12 @@
 
 
+## [3.1.2](https://github.com/Sdavletshina/release-it-demo/compare/3.1.1...3.1.2) (2023-01-31)
+
+
+### Bug Fixes
+
+* **et-1234:** another fix ([589b143](https://github.com/Sdavletshina/release-it-demo/commit/589b1435192b890f03b806dda860908f0a749fd1))
+
 ## [3.1.1](https://github.com/Sdavletshina/release-it-demo/compare/3.1.0...3.1.1) (2023-01-31)
 
 
