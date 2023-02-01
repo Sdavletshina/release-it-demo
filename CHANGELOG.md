@@ -1,5 +1,7 @@
 
 
+## [3.1.3](https://github.com/Sdavletshina/release-it-demo/compare/3.1.2...3.1.3) (2023-02-01)
+
 ## [3.1.2](https://github.com/Sdavletshina/release-it-demo/compare/3.1.1...3.1.2) (2023-01-31)
 
 
