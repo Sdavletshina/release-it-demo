@@ -1,5 +1,13 @@
 
 
+## [3.2.0](https://github.com/Sdavletshina/release-it-demo/compare/3.1.3...3.2.0) (2023-02-03)
+
+
+### Features
+
+* adds github token ([79b16d0](https://github.com/Sdavletshina/release-it-demo/commit/79b16d03c4f4330679e245a708ef9207f3f03bc6))
+* **coc-567:** adds after release hook and github token ([5828de2](https://github.com/Sdavletshina/release-it-demo/commit/5828de2585d62efd0626c2ec007c2c975936ab8d))
+
 ## [3.1.3](https://github.com/Sdavletshina/release-it-demo/compare/3.1.2...3.1.3) (2023-02-01)
 
 ## [3.1.2](https://github.com/Sdavletshina/release-it-demo/compare/3.1.1...3.1.2) (2023-01-31)
